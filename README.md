@@ -49,4 +49,5 @@ sim_vehicle.py -v Rover -f rover --map --console -l 55.99541530863445,-3.3010225
 
 ### Expected results
 
-![image](https://github.com/user-attachments/assets/59dedf59-6c16-487d-9be0-96f8ea9465a1)
+![image](https://github.com/user-attachments/assets/5860e198-c270-4207-a68b-8cceb2c6b3ac)
+
