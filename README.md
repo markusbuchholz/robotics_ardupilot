@@ -2,6 +2,23 @@
 
 The following repository delivers ROS and ROS 2 environment with Ardupilot and Gazebo.
 
+## For ROS:
+
+```bash
+
+cd ros_sitl/docker
+
+```
+
+## For ROS 2:
+
+```bash
+
+cd ros2_sitl/docker
+
+```
+
+
 ## Build
 
 ```bash
