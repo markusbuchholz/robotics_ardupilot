@@ -1,6 +1,6 @@
-## Robotics Ardupilot
+# Robotics Ardupilot
 
-Following repository delivers ROS and ROS 2 envitionment with Ardupilot and Gazebo.
+The following repository delivers ROS and ROS 2 environment with Ardupilot and Gazebo.
 
 ## Build
 
